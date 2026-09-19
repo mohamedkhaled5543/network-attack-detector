@@ -3,7 +3,7 @@
 Machine learning model that flags malicious network traffic.
 Trained on the UNSW-NB15 dataset. Served through a Streamlit app.
 
-**Live demo:** <add your Streamlit link here>
+**Live demo:** [<add your Streamlit link here>](https://network-attack-detector-gpvygc2guzznwdhsjbuxyh.streamlit.app/)
 
 ## What it does
 
